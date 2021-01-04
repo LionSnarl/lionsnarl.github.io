@@ -15,10 +15,10 @@ Two things I learned by creating this web page:
 **Markdown**
 =>a syntax for styling all forms of writing on the GitHub platform!
 
-**&**
-
 **Jekyll**
 =>a blog-aware site generator written in Ruby!
+
+
 
 
 
