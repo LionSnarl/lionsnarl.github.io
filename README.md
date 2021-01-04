@@ -2,8 +2,7 @@
 
 
 ### I'm a Full-Stack Web Developer!
-I am currently with LEARN Academy solidifying my skills in Web Development. I always love expanding my experiences and growing my knowledge in software development! A fun project I am currently working on is how to create my own artificial neural network (ANN) to better understand artificial intelligence (AI) through Python. https://github.com/LionSnarl/Hello_world - automatic!
-[GitHub](https://github.com/LionSnarl/Hello_world)
+I am currently with LEARN Academy solidifying my skills in Web Development. I always love expanding my experiences and growing my knowledge in software development! A fun project I am currently working on is how to create my own artificial neural network (ANN) to better understand artificial intelligence (AI) through Python. You can find that project[Here!](https://github.com/LionSnarl/Hello_world)
 
 When I am not focusing on computers, you can find me year-round with a board beneath my feet on hard concrete, over fresh snow, or in strong waters.
 
