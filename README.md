@@ -9,6 +9,7 @@ I bear years of exceptional experience with customer relations, high-pressure pr
 
 When I am not focusing on Software Development, you can find me year-round with a board beneath my feet on hard concrete, over fresh snow, or in strong waters. 
 
+
 Two things I learned by creating this web page:
 
 **Markdown**
