@@ -1,5 +1,4 @@
 ## Welcome!
-<img width="256" alt="T04B40L2C-U01EE31RYQG-74af3a1d8f20-512" src="https://user-images.githubusercontent.com/60535870/103496398-ed160600-4df2-11eb-859f-512708224268.png">
 
 
 ### I'm a Full-Stack Web Developer!
