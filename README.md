@@ -13,9 +13,13 @@ When I am not focusing on Software Development, you can find me year-round with 
 I created this website using
 ```
 **Markdown**
+
 =>a syntax for styling all forms of writing on the GitHub platform!
+
 **&**
+
 **Jekyll**
+
 =>a blog-aware site generator written in Ruby!
 
 
