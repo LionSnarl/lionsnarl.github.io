@@ -12,7 +12,7 @@ As a Graduate of San Diego based [LEARNAcademy](https://www.learnacademy.org/), 
 When I am not focusing on Software Development, you can find me year-round with a wooden board beneath my feet on hard concrete, over fresh snow, or in strong waters. 
 
 
-A few things I learned by creating, and editing this web page:
+A few things I learned by creating, editing adn completely revamping this web page:
 **Markdown**
 =>a syntax for styling all forms of writing on the GitHub platform!
 **Jekyll**
