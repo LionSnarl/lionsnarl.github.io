@@ -9,7 +9,7 @@ I bear years of exceptional experience with customer relations, high-pressure pr
 
 As a Graduate of San Diego based [LEARNAcademy](https://www.learnacademy.org/), I experienced over 650 hours of coding with HTML, CSS, Javascript, React, Ruby, Ruby on Rails & React on Rails. Working individually, pair programming, and in a team; I've experienced countless real world experiences at LEARN Academy that help push my ability to contribute to clean, consise code that everyone can benefit from.
 
-When I am not focusing on Software Development, you can find me year-round with a wooden board beneath my feet on hard concrete, over fresh snow, or in strong waters. 
+When I am not focusing on Software Development, you can find me year-round with a wooden board beneath my feet on hard concrete, over fresh snow, or in strong waters. You may even catch me whistling or singing too, but infrequent.
 
 
 A few things I learned by creating, editing adn completely revamping this web page:
