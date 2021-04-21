@@ -1,7 +1,7 @@
-## Welcome!
+## Hello and Welcome!
 
 
-### My name is Ryan Sarll and I'm a Full-Stack Web Developer!
+### My name is Ryan Sarll and I am a Full-Stack Web Developer!
 
 I am currently with [FamilyProud](https://www.familyproud.com/) expanding my skills in Web Development through React, React Native, Node.js, and a few other frameworks. Being focused on primarily advanced Javscript and Typescript throughout my day, I always love expanding my experiences and growing my knowledge in software development which is why I chose a fun project that I am currently working on about how to create my own artificial neural network (ANN) to better understand artificial intelligence (AI) through Python. You can find that project [Here!](https://github.com/LionSnarl/Hello_world) 
 
