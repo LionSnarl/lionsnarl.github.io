@@ -5,7 +5,7 @@
 
 I am currently with [FamilyProud](https://www.familyproud.com/) expanding my skills in Web Development through React, React Native, Node.js, and a few other frameworks. Being focused on primarily advanced Javscript and Typescript throughout my day, I always love expanding my experiences and growing my knowledge in software development which is why I chose a fun project that I am currently working on about how to create my own artificial neural network (ANN) to better understand artificial intelligence (AI) through Python. You can find that project [Here!](https://github.com/LionSnarl/Hello_world) 
 
-I also have an open source project that my team and I would love your help with! It's a React-on-Rails application seen [Here!](http://barcrawlz.herokuapp.com/)
+I also have an open source project that my team and I would love your help with! It's a React-on-Rails application seen [Here!](http://barcrawlz.herokuapp.com/). We wanted to make it easier for everyone to plan their special night out. With our application, you are able to name your own special occasion, add any kind of establishment to your heart's desires, and share that list with your friends! See for yourself [Here!](http://barcrawlz.herokuapp.com/)
 
 I bear years of exceptional experience with customer relations, high-pressure problem solving through critical thinking, and a strong sense of professionalism through stellar communication in the form of leadership.
 
@@ -21,8 +21,3 @@ A few things I learned by creating, editing adn completely revamping this web pa
 =>a blog-aware site generator written in Ruby!
 **HTML5UP!**
 => Responsive HTML5 and CSS3 site
-
-
-
-
-
