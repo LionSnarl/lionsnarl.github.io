@@ -1,4 +1,4 @@
-## Hello and Welcome!
+## Welcome!
 
 
 ### My name is Ryan Sarll and I am a Full-Stack Web Developer!
