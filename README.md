@@ -14,7 +14,7 @@ I also have an open source project that my team would love your help with! It's 
 When I am not focusing on Software Development, you can find me year-round with a wooden board beneath my feet on hard concrete, over fresh snow, or in strong waters.
 
 
-A few things I learned by creating, editing and completely revamping this web page:
+A few things I learned by creating, editing and completely changing this web page:
 **Markdown**
 =>a syntax for styling all forms of writing on the GitHub platform!
 **Jekyll**
