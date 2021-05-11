@@ -1,7 +1,7 @@
 ## Welcome!
 
 
-### My name is Ryan Sarll and I am a Full-Stack Web Developer!
+### My name is Ryan Sarll and I'm a Full-Stack Web Developer!
 
 I bear years of exceptional experience with customer relations, high-pressure problem solving through critical thinking, and a strong sense of professionalism through stellar communication in the form of leadership.
 
