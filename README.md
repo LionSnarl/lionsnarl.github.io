@@ -3,7 +3,7 @@
 
 ### My name is Ryan Sarll and I'm a Full-Stack Web Developer!
 
-I bear years of exceptional experience with customer relations, high-pressure problem solving through critical thinking, and a strong sense of professionalism through stellar communication in the form of leadership.
+I bear years of exceptional experience with customer relations, high-pressure problem solving through critical thinking, and a strong sense of professionalism through stellar communication in a natural form of leadership.
 
 As a Graduate of San Diego based [LEARNAcademy](https://www.learnacademy.org/), I experienced over 650 hours of coding with HTML, CSS, Javascript, React, Ruby, Ruby on Rails & React on Rails. Working individually, pair programming, and in a team; I've experienced countless real world experiences at LEARN Academy that help push my ability to contribute to clean, consise code that everyone can benefit from.
 
