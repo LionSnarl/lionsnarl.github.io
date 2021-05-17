@@ -11,6 +11,8 @@ I am currently with [FamilyProud](https://www.familyproud.com/) expanding my ski
 
 I also have an open source project that my team would love your help with! It's a React-on-Rails application seen [Here!](http://barcrawlz.herokuapp.com/) We wanted to make it easier for everyone to plan their special night out. With our application, you are able to name your own "bar crawl", add any kind of establishment to your heart's desires, and share that list with your friends! [See for yourself!](http://barcrawlz.herokuapp.com/)
 
+One side project I have currently is building smart contracts with creating my own cyrptocurrency 
+
 When I am not focusing on Software Development, you can find me year-round with a wooden board beneath my feet on hard concrete, over fresh snow, or in strong waters. I love being outdoors, active on my feet and in nature's elements!
 
 
